@@ -40,5 +40,5 @@
 - E. Fasle  We treat true as 1 here, and 1 is not equal to 2, so it returns false.
 - F. True   We treat Boolean(2) as true type, so it returns true.\
 **15. === and == are both test for equality. But there is difference between them which is === can check the equality without type conversion, and == won't compare the type.**\
-**16. From the function, we can get the result as [2,4,6]. We take the whole list as the parameter, and we put each variable in the list to do the whole thing and get the result from push(callback(array[i])). And what we do in the dosomething function is multiple each number by 2 and we will get [1,2,3]*2 = [2,4,6]**\
-**19**
+**16. From the function, we can get the result as [2,4,6]. We take the whole list as the parameter, and we put each variable in the list to do the whole thing and get the result from push(callback(array[i])). And what we do in the dosomething function is multiple each number by 2 and we will get [1,2,3]*2 = [2,4,6].**\
+**19. 1 4 3 2**
