@@ -12,6 +12,9 @@
 **5. It will cause error. Because we change let instead of var of the whole variables. And we define i in the for loop, it can't be used out of it.**\
 **6. It will cause error. Because we change let instead of var of the whole variables. And we define discountPrice in the for loop, it can't be used out of it.**\
 **7. 150. Like we explain before, let can only be accessed within the block it is defined in. And the finalPrice is defined in the function discountPrices, and when we call finalPrices in the line 14. It still in this function. So we can get the same answer with the question 3.**\
-**8.It will not print anything and it will return a list [50, 100. 150] like qustion 4. Although we change the var into type, the list discounted is still be accessed because it is in the big funtion when it is defined in.**\
-**9. t will cause error. Because we define i in the loop with let. Andit can't be used out of the for loop. So, it will not be accessed in the line 11.**\
-**10. values added:  20**\
+**8.It will not print anything and it will return a list [50, 100. 150] like qustion 4. Although we change the var into let, the list discounted is still be accessed because it is in the big funtion when it is defined in.**\
+**9. It will cause error. Because we define i in the loop with let. Andit can't be used out of the for loop. So, it will not be accessed in the line 11.**\
+**10. 3. Because we declare lenght of prices' length as a constant at the beginning of the function. And the value of the prioces' length is 3, and it will not be changed, so it will be print 3 at line 12.**\
+**11.It will not print anything and it will return a list [50, 100. 150] like qustion 4 and 8. Although we change the var or let into const, the list discounted still can work as constant. It is in a new scope of the for loop. So, the function can still wrok and return the list.**\
+**12.Given the above Object, write the notation for:  (These should be in your part1.md)**
+***
