@@ -22,7 +22,7 @@
 - C. student.greeting()
 - D. student["Favorite Teacher"].name
 - E. student.courseLoad[0]
-**For each of the following questions, note down the output as well as a brief explanation why that output was given  (These should be in your part1.md)**
+**For each of the following questions, note down the output as well as a brief explanation why that output was given  (These should be in your part1.md)**\
 **13. Arithmetic**
 - A. 32 We get the first 3 with string and when we mapping 2 with string, we will get 32. 
 - B. 1  We get the first 3 with int, and when we treat -2 with 3, we will get 3-2=1.
@@ -30,13 +30,13 @@
 - D. 3null  We get the both 3 and null with string, and we can add them together to get 3null.
 - E. 4  We get true which can be treated of 1, and we will get 1+3=4.
 - F. 0  We can treat both of them as 0, and we will get 0+0=0.
-- G. 3undefined  We can treat both of them as string, and we can get two string combain as 3undefined.
-- H.NaN We get the first 3 as int, and undefined is mapped to NaN, and we can get two string combain as NaN.\
+- G. 3undefined  We can treat both of them as string, and we can get two string combination as 3undefined.
+- H.NaN We get the first 3 as int, and undefined is mapped to NaN, and we can get two string combination as NaN.\
 **14. Comparison**
-- A.
-- B.
-- C.
-- D.
-- E.
-- F.\
+- A. True   We get the first 2 as int, and 2 is bigger than 1. So it returns true.
+- B. False  We get both of these two variable as char, and they can follow the rule for string comparison. '2' < '12'.
+- C. True   We get both of these two variable as int, and they are equal with each other.
+- D. False  We use === here, there are no type conversions. They don't have the same type, so it returns false.
+- E. Fasle  We treat true as 1 here, and 1 is not equal to 2, so it returns false.
+- F. True   We treat Boolean(2) as true type, so it returns true.
 **15. **
