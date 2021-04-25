@@ -39,4 +39,5 @@
 - D. False  We use === here, there are no type conversions. They don't have the same type, so it returns false.
 - E. Fasle  We treat true as 1 here, and 1 is not equal to 2, so it returns false.
 - F. True   We treat Boolean(2) as true type, so it returns true.\
-**15. === and == are both test for equality. But there is difference between them which is === can check the equality without type conversion, and == won't compare the type.**
+**15. === and == are both test for equality. But there is difference between them which is === can check the equality without type conversion, and == won't compare the type.**\
+**16**
