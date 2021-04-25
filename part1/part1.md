@@ -22,3 +22,21 @@
 - C. student.greeting()
 - D. student["Favorite Teacher"].name
 - E. student.courseLoad[0]
+**For each of the following questions, note down the output as well as a brief explanation why that output was given  (These should be in your part1.md)**
+**13. Arithmetic**
+- A.
+- B.
+- C.
+- D.
+- E.
+- F.
+- G.
+- H.
+**14. Comparison**
+- A.
+- B.
+- C.
+- D.
+- E.
+- F.
+**15. **
