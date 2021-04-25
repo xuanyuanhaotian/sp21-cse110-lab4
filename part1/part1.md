@@ -21,7 +21,7 @@
 - B. student["Grad year"]
 - C. student.greeting()
 - D. student["Favorite Teacher"].name
-- E. student.courseLoad[0]
+- E. student.courseLoad[0]\
 **For each of the following questions, note down the output as well as a brief explanation why that output was given  (These should be in your part1.md)**\
 **13. Arithmetic**
 - A. 32 We get the first 3 with string and when we mapping 2 with string, we will get 32. 
