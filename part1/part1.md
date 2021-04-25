@@ -17,8 +17,8 @@
 **10. 3. Because we declare lenght of prices' length as a constant at the beginning of the function. And the value of the prioces' length is 3, and it will not be changed, so it will be print 3 at line 12.**\
 **11.It will not print anything and it will return a list [50, 100. 150] like qustion 4 and 8. Although we change the var or let into const, the list discounted still can work as constant. It is in a new scope of the for loop. So, the function can still wrok and return the list.**\
 **12.Given the above Object, write the notation for:  (These should be in your part1.md)**
-- A. 
-- B. 
-- C.
-- D.
-- E.
+- A. student.name
+- B. student["Grad year"]
+- C. student.greeting()
+- D. student["Favorite Teacher"].name
+- E. student.courseLoad[0]
