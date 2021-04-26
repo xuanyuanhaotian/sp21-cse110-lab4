@@ -9,5 +9,4 @@
 **8. Apache**\
 **9. Tue, 26 Jan 2021 22:14:13 GMT**\
 **10. application/json**\
-**11. fetchData @ part2.js:2**\
-**onclick @ (index):21**
+**11. fetchData @ part2.js:2**
